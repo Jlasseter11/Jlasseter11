@@ -1,47 +1,87 @@
-<h1 align="center">Hi 👋, I'm Jarrett</h1>
-<h3 align="center">A recent high school graduate looking to go to college for computer science</h3>
+<h1 align="center">Hi, I'm Jarrett</h1>
+
+###
+
+<h3 align="center">College student pursuing a degree in software engineering</h3>
+
+###
+
 <h3 align="center">Likes programming, videography, web design, and indie games</h3>
 
-<h3 align="left">Where to find me:</h3>
-[![Repl.it](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)](
-<p align="left">
-</p>
+###
 
+<h3 align="left">Current Skills</h3>
 
+###
 
-## Current Skills
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?flat&logo=python&logoColor=ffdd54)
+<section align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+</section>
 
-## Want to Learn
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flT&logo=Arduino&logoColor=white)
+###
 
+<h3 align="left">Want to Learn</h3>
 
-#### PC Specs
-![Laptop](https://img.shields.io/badge/Envy%20x360-0096D6?style=flat&logo=hp&logoColor=white)
-![CPU](https://img.shields.io/badge/Core_i7_11th-0071C5?style=flat&logo=intel&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows%2010-0078D6?style=flat&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+###
 
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=Raspberry%20Pi&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+<section align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" height="40" alt="Swift logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" height="40" alt="arduino logo"  />
+</section>
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flate&logo=android&logoColor=white)
-![Fdroid](https://img.shields.io/badge/F%20Droid-1976D2?style=flate&logo=f-droid&logoColor=white)
+###
 
-## Tools of the Trade
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2B%2B&logoColor=black)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)
+<h3 align="left">PC Specs</h3>
 
-![GIMP](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
-![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat&logo=Inkscape&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)
+###
+
+<section align="left">
+  <img src="https://img.shields.io/badge/Envy%20x360-0096D6?style=for-the-badge&logo=hp&logoColor=white" height="40" alt="Laptop"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Intel-Core_i7_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white" height="40" alt="CPU"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="40" alt="Debian logo" />
+  <br> </br>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" height="40" alt="Raspberry Pi"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" height="40" alt="Debian logo"  />
+</section>
+
+###
+
+<p align="left">Tools of the Trade</p>
+
+###
+
+<section align="left">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="40" alt="Android Studio logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" height="40" alt="Notepad++ logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="40" alt="Stack Overflow logo" />
+  <br> </br>
+  <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" height="40" alt="GIMP logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" height="40" alt="Inkscape logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" height="40" alt="Canva logo"  />
+  <img width="12" />
+</section>
+
