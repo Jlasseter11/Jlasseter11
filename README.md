@@ -1,12 +1,15 @@
-<h1 align="center">Hi, I'm Jarrett</h1>
-<h3 align="center">Software Engeneering student at Western Governors University</h3>
-<h3 align="center">Likes programming, videography, web design, and indie games</h3>
+<p align=center>
 
-<h3 align="left">Where to find me:</h3>
-[![Repl.it](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)](
-<p align="left">
+Hi, I'm Jarrett
+===============
+
+### Software Engeneering student at Western Governors University
+### Likes programming, videography, web design, and indie games
+
 </p>
 
+## Where to find me:
+[![LinkedIn] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/jarrett-lasseter-9a759833b)
 
 
 ## Current Skills
