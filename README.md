@@ -34,13 +34,14 @@ Hi, I'm Jarrett
 ![Windows](https://img.shields.io/badge/Windows-0096D6?logo=windows&logoColor=fff&style=flat)
 
 ![Raspberry Pi Badge](https://img.shields.io/badge/Raspberry%20Pi%203B-A22846?logo=raspberrypi&logoColor=fff&style=flat)
-![Debian Badge](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=flat)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 ![Android Badge](https://img.shields.io/badge/Android-34A853?logo=android&logoColor=fff&style=flat)
 ![F-Droid Badge](https://img.shields.io/badge/F--Droid-1976D2?logo=fdroid&logoColor=fff&style=flat)
 
 ## Tools of the Trade
 ![Android Studio Badge](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=flat)
+![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=flat&logo=Google-chrome&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)
 
 ![GIMP Badge](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=fff&style=flat)
